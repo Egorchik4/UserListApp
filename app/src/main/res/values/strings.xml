@@ -1,3 +1,11 @@
 <resources>
 	<string name="app_name">UserListApp</string>
+	<string name="hint_name">Name</string>
+	<string name="hint_second_name">SecondName</string>
+	<string name="hint_number_of_phone">+xxxxxxxxxx</string>
+	<string name="ivan">Ivan</string>
+	<string name="ivanov">Ivanov</string>
+	<string name="number_phone">+7(923)3243232</string>
+	<string name="hint_photo_url">https://gravatar.com/avatar/cd794dd4d6ef663db00a332cb37ac6fd?s=400&amp;d=robohash&amp;r=x</string>
+	<string name="back">Back</string>
 </resources>
